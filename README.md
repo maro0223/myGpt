@@ -1,0 +1,2 @@
+# myGpt
+ChatGPT redirect page
